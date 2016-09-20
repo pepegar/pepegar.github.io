@@ -1,0 +1,11 @@
+title: Pepe b code
+description: > # this means to ignore newlines until "baseurl:"
+  Rants on programming, and computer science in general
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pepegar.github.io" # the base hostname & protocol for your site
+twitter_username: jlgarhdez
+github_username:  pepegar
+
+# Build settings
+markdown: kramdown
+theme: minima
