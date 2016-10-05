@@ -4,10 +4,16 @@ title: Applicative style programming
 tags: haskell, functional-programming
 ---
 
+I want to explore the Applicative functor, more than a functor and less than
+a monad.  The reason to use it is that, by being less powerful, it can be
+applied in more situations.
+
+This post is a companion to the talk I gave at [HaskellMAD][HaskellMAD], you can
+find the slides of the [talk here][talk].
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
-- [-](#-)
 - [Create your own Applicatives](#create-your-own-applicatives)
 - [Free Applicatives](#free-applicatives)
 - [Static Analysis](#static-analysis)
@@ -16,12 +22,6 @@ tags: haskell, functional-programming
 <!-- markdown-toc end -->
 
 
-I want to explore the Applicative functor, more than a functor and less than
-a monad.  The reason to use it is that, by being less powerful, it can be
-applied in more situations.
-
-This post is a companion to the talk I gave at [HaskellMAD][HaskellMAD], you can
-find the slides of the [talk here][talk].
 
 Applicatives or _Idioms_, as they were named back then, were introduced in
 2008, in a [Functional Pearl][functional pearls] named [_Idioms: applicative
