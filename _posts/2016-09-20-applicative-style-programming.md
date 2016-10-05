@@ -4,6 +4,18 @@ title: Applicative style programming
 tags: haskell, functional-programming
 ---
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
+
+- [-](#-)
+- [Create your own Applicatives](#create-your-own-applicatives)
+- [Free Applicatives](#free-applicatives)
+- [Static Analysis](#static-analysis)
+- [Conclusions](#conclusions)
+
+<!-- markdown-toc end -->
+
+
 I want to explore the Applicative functor, more than a functor and less than
 a monad.  The reason to use it is that, by being less powerful, it can be
 applied in more situations.
