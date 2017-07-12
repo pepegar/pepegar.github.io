@@ -6,16 +6,18 @@ I hereby claim:
 
   * I am an admin of http://pepegar.com
   * I am pepegar (https://keybase.io/pepegar) on keybase.
-  * I have a public key ASAz6GRf1FPCtjHolAi3qX4QOjdirPmn1LJEq980R0coSAo
+  * I have a public key with fingerprint E94A FA72 3848 09F2 081D  D1AF 3DD7 497C FE9B EFE3
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "0101de64b4d04842e0d7628571e6556cbd6ec72f44ba5aaf8002dfe355401c50aef20a",
+            "eldest_kid": "0101c648556ac1589f16ea8d572d357c006fda800ab307c1f88985d5ca76807c5c8f0a",
+            "fingerprint": "e94afa72384809f2081dd1af3dd7497cfe9befe3",
             "host": "keybase.io",
-            "kid": "012033e8645fd453c2b631e89408b7a97e103a3762acf9a7d4b244abdf34474728480a",
+            "key_id": "3dd7497cfe9befe3",
+            "kid": "0101c648556ac1589f16ea8d572d357c006fda800ab307c1f88985d5ca76807c5c8f0a",
             "uid": "6c543ade55458e70505e95ed93420100",
             "username": "pepegar"
         },
@@ -26,25 +28,43 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.20"
-    },
-    "ctime": 1491467830,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1491467814,
-        "hash": "2f343b230943108ca5abfad7c58c93db94079334c53116f9ea702486d45cd6957d08de99533c419a62934e3ec74e7ae3db5a01fa1f9c64b0022bdfb456ffb351",
-        "seqno": 1002365
-    },
-    "prev": "531210e50612b15529ddb5ae9f1f3f127c618a1416f6a148aac13db7764fc5e7",
-    "seqno": 14,
+    "ctime": 1499890508,
+    "expire_in": 157680000,
+    "prev": "46e10f017b1ecfdf6829cee7fe4ac96530ca5362eed231b8fbe757842fc48ced",
+    "seqno": 25,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM+hkX9RTwrYx6JQIt6l+EDo3Yqz5p9SyRKvfNEdHKEgKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGU2NGI0ZDA0ODQyZTBkNzYyODU3MWU2NTU2Y2JkNmVjNzJmNDRiYTVhYWY4MDAyZGZlMzU1NDAxYzUwYWVmMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzNlODY0NWZkNDUzYzJiNjMxZTg5NDA4YjdhOTdlMTAzYTM3NjJhY2Y5YTdkNGIyNDRhYmRmMzQ0NzQ3Mjg0ODBhIiwidWlkIjoiNmM1NDNhZGU1NTQ1OGU3MDUwNWU5NWVkOTM0MjAxMDAiLCJ1c2VybmFtZSI6InBlcGVnYXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBlcGVnYXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTQ2NzgzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNDY3ODE0LCJoYXNoIjoiMmYzNDNiMjMwOTQzMTA4Y2E1YWJmYWQ3YzU4YzkzZGI5NDA3OTMzNGM1MzExNmY5ZWE3MDI0ODZkNDVjZDY5NTdkMDhkZTk5NTMzYzQxOWE2MjkzNGUzZWM3NGU3YWUzZGI1YTAxZmExZjljNjRiMDAyMmJkZmI0NTZmZmIzNTEiLCJzZXFubyI6MTAwMjM2NX0sInByZXYiOiI1MzEyMTBlNTA2MTJiMTU1MjlkZGI1YWU5ZjFmM2YxMjdjNjE4YTE0MTZmNmExNDhhYWMxM2RiNzc2NGZjNWU3Iiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEpNOvbRGadNnH1Ev2MDYKNyvvuSUqvitW2SXd9onJaXHCvbZgQn7G576a4lxE+d1zbE4m7aSVBmwAEg8DDc4gGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAhyLXw8iu28Yy8dUVXSwLZMfaZZhFUSYc6GfkqKlxv4KN0YWfNAgKndmVyc2lvbgE=
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMM9AnicrVJ9TFVlHOYC1w8KoTImQoVnuKG7wTn3nPd8XIYwuSkyQiNtobTL+XjP
+vSfhnsu5B67ExwZUGgwEDU2gKSLUZXbZQLutZga7w5ZhEku0wKYECUqY1RYToXNY
+/dHWn73/vHuf93me3/P77RcIDwkKM6SM7ihfbJ2bMFzuby4OyhVrssoQThZKEUsZ
+sh8uX7BAgG7Vtl8SEAuCYijGkwQNAMnyGKAZESMhSwuAMgs4oHgUJUWBpVGU5XCU
+4jGRphkaCIBnKZLWAMDTIsoiJkSUnHaouBTJqWq2kCFYkaXMOE3QKCOaURoTBIwV
+cUGgCIbiRchwUIS4JnTIbl2hheNYN0yUZA3THrbleP/B/59zFy/bkTwgcFaAABCA
+hhQKUAAZAAUGJ8xaKVQnuqHiZAuhxnZBF7SzClJhQjSwROKhPle9kX8TEnm5UFO6
+FFmVeblA+3Coqsui69RSl070QM72t4WNk5yCNkRNUAIVtyQ7EQumMXlV0j0xgmFo
+RgtGmxB4wCUp0CbpDKD3ox29DCzRLAkSYqiIYhSHQV4URJI2MzyElAgJlmdIgKM8
+C3DSDKFgxjGOFjlIAYomzCJP0DwUEL2pIqeMWMxAy8naNU+3ZHeyarECkYqB/rzQ
+IENY0ApjsL5dQWGrI//ZuZKfIpY446FD4t24EYOa1+i74Dy2Pjn7oQX5/sSp1b8t
+eMrSjWcir67cu/V47a/N+a2vhh68NjItvTBZ7YtOiL3V293S1uPyNCnJUVRmfXys
+em77xk8HlxBYkTk2vPFSbl9+1ed3aqvS077Ojpe3/O65+5m1seWG5aQvq+xEu9sw
+8nzmkdm1TxyOmUtQj15o2buvRrk06i1FwseuN84MZYx7x985vzj73Lopsd3We6o/
+Zlt2xJY2D9YwOt9z/HXDQu+3DrKT8H85FHg65cP3TpY/rOs+N/hKk7N+94YX47K2
+bTq86DfsfLxvzYNP8lLjEnbK0T0MNnErqevPgqn2mY5Ef33g4NAzhfdeHui3mq7c
+dn4z3EzmrH976LXKyfNTndMtVfN5vvrNOyLq1t2giw5MdfVaf6y7mb0U/mjBdTW0
+MMPkfbNgxZOD48pEuG9XOvOBtdOxydHA2M8UhfXSsQNEVe4eFJ/1O/xJzY1tgRFH
+TuCrqh8aL3rRiJF8zuGo6QvuOpYwefnnoowHlV4sFa0dXmmwfne9MtJ4J+cLfySO
+V5c/+8f4kVXJN9PuybEd8Wu9adccUXPdp4c2JKFtq47ONL915aNHHbtB8LvWfVOp
+901RCxE+mG18X93cwYS8sTh/Ww1RqMXAmo/3YNVPjUv2s2G2rflFrffPpoy1WWOi
+pxsuPvZLTEnTS38BNvTB0w==
+=whcK
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -52,4 +72,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/pepegar
 
 ==================================================================
-
